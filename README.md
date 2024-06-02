@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zikrullah CELEP</h1>
-<h3 align="center">A passionate full-stack developer from Türkiye</h3>
+<h3 align="center">I am a computer engineering student at Bursa Technical University.</h3>
 
 - 🔭 I’m currently working on **Duzyaz.AI**
 
