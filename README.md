@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Duzyaz.AI**
 
-- 🌱 I’m currently learning  **Spring Core**
+- 🌱 I’m currently learning  **Golang**
 
 - 📫 How to reach me **zikrullahcelep@gmail.com**
 
