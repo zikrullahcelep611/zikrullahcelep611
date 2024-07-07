@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zikrullah CELEP</h1>
 <h3 align="center">I am a computer engineering student at Bursa Technical University.</h3>
 
-- 🔭 I’m currently working on **Duzyaz.AI**
-
 - 🌱 I’m currently learning  **Golang**
 
 - 📫 How to reach me **zikrullahcelep@gmail.com**
