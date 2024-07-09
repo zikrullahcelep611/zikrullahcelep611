@@ -8,7 +8,7 @@ I have been interested in software for more than 3 years. So far, I have been in
 My goal is to constantly improve myself in web technologies, produce performance-oriented solutions and write clean code.
 
 
-- 🌱 I’m currently learning  **Golang**
+- 🌱 I’m currently learning  **Golang** and **JavaScript**
 
 - 📫 How to reach me **zikrullahcelep@gmail.com**
 
