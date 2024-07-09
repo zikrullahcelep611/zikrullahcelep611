@@ -3,7 +3,7 @@
 
 ### ✨&nbsp; About Me
 
-I have been interested in software for more than 3 years. So far, I have been introduced to technologies such as JavaScript, PhP, Python, C#, MySQL and Go. I am currently improving myself in web programming and developing projects using Go, Javascript and MySQL technologies.
+I have been interested in software for more than 3 years. So far, I have been introduced to technologies such as JavaScript, PhP, Python, C#, MySQL and Go. I am currently improving myself in web programming and developing projects using Go, Javascript and MySQL.
 
 My goal is to constantly improve myself in web technologies, produce performance-oriented solutions and write clean code.
 
