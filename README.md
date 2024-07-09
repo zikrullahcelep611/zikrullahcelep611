@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zikrullah CELEP</h1>
 <h3 align="center">I am a computer engineering student at Bursa Technical University.</h3>
 
+### ✨&nbsp; About Me
+
+I have been interested in software for more than 3 years. So far, I have been introduced to technologies such as JavaScript, PhP, Python, C#, MySQL and Go. I am currently improving myself in web programming and developing projects using Go, Javascript and MySQL technologies.
+
+My goal is to constantly improve myself in web technologies, produce performance-oriented solutions and write clean code.
+
+
 - 🌱 I’m currently learning  **Golang**
 
 - 📫 How to reach me **zikrullahcelep@gmail.com**
