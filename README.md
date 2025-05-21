@@ -3,14 +3,35 @@
 
 ### ✨&nbsp; About Me
 
-I have been interested in software for more than 3 years. So far, I have been introduced to technologies such as JavaScript, PhP, Python, C#, MySQL and Go. I am currently improving myself in web programming and developing projects using Go, Javascript and MySQL.
+## 🧠 Academic Background
 
-My goal is to constantly improve myself in web technologies, produce performance-oriented solutions and write clean code.
+- 📚 Started my journey with **C programming** in my *Algorithms* course, where I built a solid foundation in problem-solving and logical thinking.
+- 🗃️ Learned the basics of **MySQL** and database design in my *Database* course.
+- ☕ Gained proficiency in **Java** through my *Object-Oriented Programming* course, focusing on clean code principles and OOP concepts.
+
+## ⚙️ Technologies I Use
+
+- 🌐 **.NET & Web Development**  
+  - During my **3rd year summer internship**, I started working with .NET technologies.
+  - In my **4th year long-term internship**, I deepened my experience in full-stack web development using .NET.
+  - Post-internship, I continued working **part-time** at the same company, contributing to real-world projects using .NET Core, Entity Framework, and RESTful APIs.
+
+- 🧪 **Golang (Go)**  
+  - As a personal interest, I’ve been developing backend applications with Go, exploring its performance and concurrency model.
+
+## 🚀 Highlights
+
+- ✔️ Hands-on experience in **backend development**, API design, and database integration.
+- ✔️ Familiar with **OOP principles**, clean architecture, and **software development life cycle**.
+- ✔️ Able to adapt quickly to new technologies and work collaboratively in agile teams.
 
 
-- 🌱 I’m currently learning  **Golang** and **JavaScript**
 
-- 📫 How to reach me **zikrullahcelep@gmail.com**
+## 📫 Get in Touch
+
+- 📧 [zikrullahcelep@gmail.com]
+- 💼 [LinkedIn](https://www.linkedin.com/in/zikrullah-celep)
+- 💻 [GitHub](https://github.com/zikrullahcelep611)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
